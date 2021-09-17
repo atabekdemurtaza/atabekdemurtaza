@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @atabekdemurtaza
-- 👀 I’m interested in Python/Django/Flask/TenserFlow 
-- 🌱 I’m currently learning Python/Django
-- 💞️ I’m looking to collaborate on smth
-
+Hi, I am python developer from Uzbekistan.
+Based on my experience and qualifications.
+Django/Flask/cv2
+React/Vue/
+Docker/Jenkins
 
 <!---
 atabekdemurtaza/atabekdemurtaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
