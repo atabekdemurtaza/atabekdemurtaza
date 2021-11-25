@@ -1,5 +1,5 @@
-Hi, I am python developer from Uzbekistan.
-Based on my experience and qualifications.
+Hi! Hey, what are you doing here?
+Don't be silly. So you make impossible my concentration!
 Django/Flask/cv2
 React/Vue/
 Docker/Jenkins
