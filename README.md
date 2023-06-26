@@ -1,5 +1,5 @@
 ### You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-Software Developer with rock-solid experience in building complex applications with JavaScript, TypeScript, Vue.js, NuxtJS, Express.js, Nodejs and other tools in the JavaScript ecosystem. Decomposing complex problems into logic is my forte, and despite JavaScript frameworks, I build products that scale well 🚀.
+Software Developer with rock-solid experience in building complex applications with JavaScript, Django, PostgreSQL, Linux Nodejs and other tools in the JavaScript ecosystem. Decomposing complex problems into logic is my forte, and despite JavaScript frameworks, I build products that scale well 🚀.
 
 ⚡️ **More about me**
 - ⚙️ Co-founder [Connectron Team](https://connectron.team/)
