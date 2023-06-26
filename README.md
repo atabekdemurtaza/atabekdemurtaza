@@ -2,7 +2,7 @@
 Software Developer with rock-solid experience in building complex applications with JavaScript, Django, PostgreSQL, Linux Nodejs and other tools in the JavaScript ecosystem. Decomposing complex problems into logic is my forte, and despite JavaScript frameworks, I build products that scale well 🚀.
 
 ⚡️ **More about me**
-- ⚙️ Co-founder [Connectron Team](https://connectron.team/)
+- ⚙️ Founder [Connectron Team](https://connectron.team/)
 - ✍🏾 I write occasionally on [Medium](https://medium.com/)
 - 🌱 I’m currently learning web3
 - 💬 Ask me anything about Web Engineering, JavaScript, Django, Nodejs, Technical Writing, Startups
