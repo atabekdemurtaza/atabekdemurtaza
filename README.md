@@ -6,7 +6,7 @@ Software Developer with rock-solid experience in building complex applications w
 - ✍🏾 I write occasionally on [Medium](https://medium.com/)
 - 🌱 I’m currently learning web3
 - 💬 Ask me anything about Web Engineering, JavaScript, Django, Nodejs, Technical Writing, Startups
-- 📫 How to reach me: - Twitter: [@atabekdemurtaza](https://twitter.com/atabekdemurtaza), - LinkedIn: [Atabek De Murtaza](https://www.linkedin.com/in/atabek-de-murtaza-02b9a7247/), - Mail: [Send a mail!](mailto:atabekdemurtaza@gmail.com)
+- 📫 How to reach me: - Twitter: [@atabekdemurtaza](https://twitter.com/atabekdemurtaza), - LinkedIn: [Atabek De Murtaza](https://www.linkedin.com/in/atabekdemurtaza/), - Mail: [Send a mail!](mailto:atabekdemurtaza@gmail.com)
 
 - ⚡ Fun fact: I love chess ♟
 
