@@ -12,19 +12,25 @@ I'm **Atabek Murtazaev**, a Full Stack Developer based in Manjaro Linux. I've be
 - ☁️ **Cloud Services**: Experience with AWS and DigitalOcean.
 - ⚙️ **DevOps**: Knowledge of Jenkins for continuous integration and continuous deployment (CI/CD).
 - 🌐 **API Development**: Proficient in designing and building APIs.
-- 📱 **Spring**: Skilled in Java for cross-platform and Client-side app development.
+- 📱 **Spring**: Skilled in Java for cross-platform and client-side app development.
 - ☁️ **Heroku**: Deploying applications on Heroku.
-- 🌿 **Spring**: Using the Spring framework for Java applications.
 - 🤖 **Telegram Bot**: Building Telegram chatbots.
 - 🧪 **Testing**: Expert in software testing.
 - 🧪 **Unit Testing**: Skilled in unit testing for quality assurance.
+
+💡 **AI and Machine Learning**
+
+- 🧠 **AI Enthusiast**: Passionate about Artificial Intelligence and its applications.
+- 🐍 **Python**: Proficient in Python for AI and machine learning projects.
+- 🤖 **Machine Learning**: Experienced in creating and training machine learning models.
+- 📊 **Data Science**: Skilled in data analysis and visualization for insights.
 
 📧 **Contact Me**
 
 - Email: [atabekdemurtaza@gmail.com](mailto:atabekdemurtaza@gmail.com)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/atabekdemurtaza/)
 - Website: [About me](https://www.atabekdemurtaza.uz/)
-- Blog [My blog](https://www.demurtaza.blog/)
+- Blog: [My blog](https://www.demurtaza.blog/)
 
 🔥 **Let's connect and create amazing things together!**
 
@@ -34,7 +40,7 @@ I'm **Atabek Murtazaev**, a Full Stack Developer based in Manjaro Linux. I've be
 ![Django Badge](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Manjaro Linux Badge](https://img.shields.io/badge/Linux_Manjarov-35BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
+![Manjaro Linux Badge](https://img.shields.io/badge/Linux_Manjaro-35BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -45,7 +51,7 @@ I'm **Atabek Murtazaev**, a Full Stack Developer based in Manjaro Linux. I've be
 ![Testing Badge](https://img.shields.io/badge/Testing-FF5722.svg?style=for-the-badge)
 ![Unit Testing Badge](https://img.shields.io/badge/Unit_Testing-1976D2.svg?style=for-the-badge)
 
-"Success is not the key to happiness; happiness is the key to success. If you love what you are doing, you will be successful." - Albert Schweitzer
-
-
-
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Data Science Badge](https://img.shields.io/badge/Data_Science-0081EB.svg?style=for-the-badge)
+![Machine Learning Badge](https://img.shields.io/badge/Machine_Learning-FFC800.svg?style=for-the-badge)
