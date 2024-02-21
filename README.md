@@ -4,7 +4,7 @@ I'm **Atabek Murtazaev**, a Full Stack Developer based in Manjaro Linux. I've be
 
 👨‍💻 **About Me**
 
-- 🌐 **Full Stack Developer** with a strong interest in Python, JavaScript, and Java.
+- 🌐 **Full Stack Developer** with a strong interest in Python, JavaScript.
 - 🌟 **Django**: Expert in building robust web applications using Django.
 - ⚛️ **ReactJS**: Skilled at creating dynamic user interfaces with ReactJS.
 - 🚀 **Next.js**: Proficient in building server-rendered React applications for optimized performance.
@@ -12,9 +12,7 @@ I'm **Atabek Murtazaev**, a Full Stack Developer based in Manjaro Linux. I've be
 - ☁️ **Cloud Services**: Experience with AWS and DigitalOcean.
 - ⚙️ **DevOps**: Knowledge of Jenkins for continuous integration and continuous deployment (CI/CD).
 - 🌐 **API Development**: Proficient in designing and building APIs.
-- 📱 **Spring**: Skilled in Java for cross-platform and client-side app development.
 - ☁️ **Heroku**: Deploying applications on Heroku.
-- 🤖 **Telegram Bot**: Building Telegram chatbots.
 - 🧪 **Testing**: Expert in software testing.
 - 🧪 **Unit Testing**: Skilled in unit testing for quality assurance.
 
