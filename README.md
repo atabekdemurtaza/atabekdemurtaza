@@ -1,55 +1,43 @@
 # Hi there! 👋
 
-I'm **Atabek Murtazaev**, a Full Stack Developer based in Manjaro Linux. I've been a professional developer since I was 11, and I'm passionate about a variety of technologies and programming languages.
+I'm **Atabek Murtazaev**, a Full Stack Python/Go Developer passionate about building reliable systems, scalable web apps, and exploring AI. I work daily in Linux (Manjaro) and enjoy combining backend engineering with DevOps practices and modern frontend frameworks.
 
-👨‍💻 **About Me**
+---
 
-- 🌐 **Full Stack Developer** with a strong interest in Python, JavaScript.
-- 🌟 **Django**: Expert in building robust web applications using Django.
-- ⚛️ **ReactJS**: Skilled at creating dynamic user interfaces with ReactJS.
-- 🚀 **Next.js**: Proficient in building server-rendered React applications for optimized performance.
-- 💻 **Linux Enthusiast**: Daily user of Manjaro Linux.
-- ☁️ **Cloud Services**: Experience with AWS and DigitalOcean.
-- ⚙️ **DevOps**: Knowledge of Jenkins for continuous integration and continuous deployment (CI/CD).
-- 🌐 **API Development**: Proficient in designing and building APIs.
-- ☁️ **Heroku**: Deploying applications on Heroku.
-- 🧪 **Testing**: Expert in software testing.
-- 🧪 **Unit Testing**: Skilled in unit testing for quality assurance.
+### 👨‍💻 What I Do
+- **Backend Development** → Django, FastAPI, Go (Gin), PostgreSQL, Redis, RabbitMQ  
+- **Frontend** → Vue.js, React, Next.js  
+- **DevOps & Cloud** → AWS, DigitalOcean, CI/CD, Docker  
+- **AI & Data** → Python, Machine Learning, Data Analysis  
 
-💡 **AI and Machine Learning**
+---
 
-- 🧠 **AI Enthusiast**: Passionate about Artificial Intelligence and its applications.
-- 🐍 **Python**: Proficient in Python for AI and machine learning projects.
-- 🤖 **Machine Learning**: Experienced in creating and training machine learning models.
-- 📊 **Data Science**: Skilled in data analysis and visualization for insights.
+### 🌱 Currently
+- Preparing for **SRE/Backend interviews** with a focus on system design, scalability, and reliability.  
+- Building projects that combine **AI** and **HR tech** (job-matching platforms, recommendation systems).  
 
-📧 **Contact Me**
+---
 
-- Email: [atabekdemurtaza@gmail.com](mailto:atabekdemurtaza@gmail.com)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/atabekdemurtaza/)
-- Website: [About me](https://www.atabekdemurtaza.uz/)
-- Blog: [My blog](https://www.demurtaza.blog/)
+### 📫 Connect with Me
+- Email: [atabekdemurtaza@gmail.com](mailto:atabekdemurtaza@gmail.com)  
+- LinkedIn: [linkedin.com/in/atabekdemurtaza](https://www.linkedin.com/in/atabekdemurtaza/)  
+- Leetcode: [leetcode.com/u/atabekdemurtaza/](https://leetcode.com/u/atabekdemurtaza/)  
+- Blog: [t.me/demurtaza](https://t.me/demurtaza)  
 
-🔥 **Let's connect and create amazing things together!**
+---
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java Badge](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Django Badge](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![ReactJS Badge](https://img.shields.io/badge/ReactJS-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Manjaro Linux Badge](https://img.shields.io/badge/Linux_Manjaro-35BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=white)
-![AWS Badge](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![API Development Badge](https://img.shields.io/badge/API_Development-333333.svg?style=for-the-badge)
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Telegram Bot Badge](https://img.shields.io/badge/Telegram_Bot-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)
-![Testing Badge](https://img.shields.io/badge/Testing-FF5722.svg?style=for-the-badge)
-![Unit Testing Badge](https://img.shields.io/badge/Unit_Testing-1976D2.svg?style=for-the-badge)
+### 🚀 Tech I Use
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue Badge](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Data Science Badge](https://img.shields.io/badge/Data_Science-0081EB.svg?style=for-the-badge)
-![Machine Learning Badge](https://img.shields.io/badge/Machine_Learning-FFC800.svg?style=for-the-badge)
+---
+
+🔥 *Always learning, always building.*
