@@ -6,7 +6,7 @@ I'm **Atabek Murtazaev**, a Full Stack Python/Go Developer passionate about buil
 
 ### 👨‍💻 What I Do
 - **Backend Development** → Django, FastAPI, Go (Gin), PostgreSQL, Redis, RabbitMQ  
-- **Frontend** → Vue.js, React, Next.js  
+- **Frontend** → Vue.js, React, Next.js, Svelte  
 - **DevOps & Cloud** → AWS, DigitalOcean, CI/CD, Docker  
 - **AI & Data** → Python, Machine Learning, Data Analysis  
 
